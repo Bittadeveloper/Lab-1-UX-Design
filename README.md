@@ -32,4 +32,4 @@ App Info: Open README.md and fill in the details below.
 <h2>📝 Project Details</h2>
 Selected Ethiopian App: > SantimPay
 
-Which media did you use for design? (draw.io, Figma, Paper, etc.) Figma
+Which media did you use for design? (draw.io, Figma, Paper, etc.) ->Figma
