@@ -6,11 +6,11 @@ Practice wireframing by analyzing and redesigning a real-world application used 
 
 <h2>🛠 Step 1: Follow the Tutorial</h2>
 
-Open draw.io.
+1.Open draw.io.
 
-Follow the steps in the attached attachment to learn how to use device frames, icons, and text boxes.
+2.Follow the steps in the attached attachment to learn how to use device frames, icons, and text boxes.
 
-This is your training to understand how to build professional screens.
+3.This is your training to understand how to build professional screens.
 
 <h2>🛠 Step 2: The Mandatory Project (Ethiopian App)</h2>
 
@@ -24,21 +24,21 @@ Rule 3: You may use any media to design (draw.io, Figma).
 
 <h2>📤 Submission Requirements</h2>
 
-Phase 1: Accept the Assignment
+<h3>Phase 1: Accept the Assignment</h3>
 
-Accept the invitation link to create your unique GitHub repository.
+1.Accept the invitation link to create your unique GitHub repository.
 
-Phase 2: Upload Deliverables
+<h3>Phase 2: Upload Deliverables</h3>
 
 Upload the following files directly to your repository via the browser:
 
-Tutorial Proof: The mobileapp.png you created while following the ux.pdf guide.
+1.Tutorial Proof: The mobileapp.png you created while following the ux.pdf guide.
 
-Main Project: The images/PDFs of your Ethiopian App design.
+2.Main Project: The images/PDFs of your Ethiopian App design.
 
-export as PNG/JPG.
+  export as PNG/JPG.
 
-App Info: Open README.md and fill in the details below.
+3.App Info: Open README.md and fill in the details below.
 
 <h2>📝 Project Details</h2>
 
